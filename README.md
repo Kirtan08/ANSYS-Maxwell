@@ -1,4 +1,4 @@
-These Files contain ANSYS Maxwell supported file to run basic analysis of following subjects 
+These Files contain ANSYS Maxwell supported file to run basic analysis of following subjects. Analyse the problem to yield results.
 
 "Ampere's Law"  - Models a conductor with excitation. Field calculator includes calculation for finding the closed integral of H around a point. 
 
