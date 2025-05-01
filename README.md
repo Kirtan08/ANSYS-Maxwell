@@ -6,4 +6,6 @@ These Files contain ANSYS Maxwell supported file to run basic analysis of follow
 
 "Permanent Magnet Demagnetization" - Magnetic circuit with permanent to study the effect of demagnetization due to externally applied magnetic field. 
 
+"Calculate Magnetic Circuit Reluctance" - Model includes calculation for finding the reluctance of magnetic circuit. 
+
 
