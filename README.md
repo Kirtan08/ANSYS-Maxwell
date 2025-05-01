@@ -8,4 +8,6 @@ These Files contain ANSYS Maxwell supported file to run basic analysis of follow
 
 "Calculate Magnetic Circuit Reluctance" - Model includes calculation for finding the reluctance of magnetic circuit. 
 
+"Uniform B Field" - Produce a Uniform Magnetic Field in a specific region of interest. 
+
 
