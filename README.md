@@ -10,4 +10,6 @@ These Files contain ANSYS Maxwell supported file to run basic analysis of follow
 
 "Uniform B Field" - Produce a Uniform Magnetic Field in a specific region of interest. Includes Files with 2D axisymmetric & 2D Cartesian coordinate system. 
 
+"Electric Actuator with Hysteresis Effect" - Model of electric acatuator with Hysteresis effetc by calculating Flux Density and Magnetizing Force at point of Interest. 
+
 
